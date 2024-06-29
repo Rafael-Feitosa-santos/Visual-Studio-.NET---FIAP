@@ -1,0 +1,14 @@
+C:\Users\matil\source\repos\Fiap.Console.IocSample\bin\Debug\net8.0\Fiap.Console.IocSample.exe
+C:\Users\matil\source\repos\Fiap.Console.IocSample\bin\Debug\net8.0\Fiap.Console.IocSample.deps.json
+C:\Users\matil\source\repos\Fiap.Console.IocSample\bin\Debug\net8.0\Fiap.Console.IocSample.runtimeconfig.json
+C:\Users\matil\source\repos\Fiap.Console.IocSample\bin\Debug\net8.0\Fiap.Console.IocSample.dll
+C:\Users\matil\source\repos\Fiap.Console.IocSample\bin\Debug\net8.0\Fiap.Console.IocSample.pdb
+C:\Users\matil\source\repos\Fiap.Console.IocSample\obj\Debug\net8.0\Fiap.Console.IocSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matil\source\repos\Fiap.Console.IocSample\obj\Debug\net8.0\Fiap.Console.IocSample.AssemblyInfoInputs.cache
+C:\Users\matil\source\repos\Fiap.Console.IocSample\obj\Debug\net8.0\Fiap.Console.IocSample.AssemblyInfo.cs
+C:\Users\matil\source\repos\Fiap.Console.IocSample\obj\Debug\net8.0\Fiap.Console.IocSample.csproj.CoreCompileInputs.cache
+C:\Users\matil\source\repos\Fiap.Console.IocSample\obj\Debug\net8.0\Fiap.Console.IocSample.dll
+C:\Users\matil\source\repos\Fiap.Console.IocSample\obj\Debug\net8.0\refint\Fiap.Console.IocSample.dll
+C:\Users\matil\source\repos\Fiap.Console.IocSample\obj\Debug\net8.0\Fiap.Console.IocSample.pdb
+C:\Users\matil\source\repos\Fiap.Console.IocSample\obj\Debug\net8.0\Fiap.Console.IocSample.genruntimeconfig.cache
+C:\Users\matil\source\repos\Fiap.Console.IocSample\obj\Debug\net8.0\ref\Fiap.Console.IocSample.dll
